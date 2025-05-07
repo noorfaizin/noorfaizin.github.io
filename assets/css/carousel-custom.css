@@ -1,0 +1,21 @@
+/* .carousel-indicators{
+    position: unset;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+}
+.carousel-indicators [data-bs-target]{
+    text-indent: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    border-bottom: 1px solid #000;
+} */
+.carousel-item{
+    height: 100%;
+    text-align: center;
+}
+.carousel-item img{
+    object-fit: cover;
+    height: 400px;
+}
